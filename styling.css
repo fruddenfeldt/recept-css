@@ -1,12 +1,24 @@
 * {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color: beige
 }
 
 
 img {
     height: auto;
     width: 250px;
+}
+
+#receptbox {
+    background-color: gold;
+    border: 2px;
+    width: fit-content;
+    padding: 20px;
+    padding-right: 50px;
+    padding-left: 10px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    border-radius: 10px;
+
 }
 
 #receptlista {
